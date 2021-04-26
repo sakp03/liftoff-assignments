@@ -28,7 +28,7 @@ Technologies that will be the following:
 3. MySQL for the database
 
 ### What I'll Have to Learn
-One thing that I will have to learn is how to put an interactive map on the site. At some point, I want the users to be able to add a restaurant that has that dish. 
+One thing that I will have to learn is how to put an interactive map on the site. At some point, I want the users to be able to add a restaurant that has that dish. I also might want to add a bit of javascript to make my front-end more interactive.
 
 ### Project Tracker
 https://trello.com/b/bSbFmKn3/project-board 
