@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+[Link to GitHub Wireframes](https://github.com/sakp03/liftoff-assignments/blob/b41251c84f1f45c2e14877be980698a659246889/Wireframe%20for%20LiftOff%20Project.pdf)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Link to Trello Page](https://trello.com/b/bSbFmKn3/project-board)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Link to Project Repo](https://github.com/sakp03/LiftOffProject_Recipes)

@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-https://github.com/sakp03/liftoff-assignments
+https://github.com/sakp03
  
 ### LinkedIn
 https://www.linkedin.com/in/sakura-phansiri-3324b37b/
